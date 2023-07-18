@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bolotinl or Lauren Bolotin
-- 👀 I’m interested in using big data to understand watershed processes, especially as they relate to post-fire hydrologic hazards
-- 🌱 I’m currently learning how to work with big data
-- 💞️ I’m looking to collaborate on creating an app or dashboard for visualization of risk of post-fire hydrologic hazards
+- 👀 I’m interested in using big data to understand and predict watershed processes
 - 📫 Reach me by emailing bolotinljb@gmail.com
 
 <!---
